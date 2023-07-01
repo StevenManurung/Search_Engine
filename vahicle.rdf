@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:foaf="http://xmlns.com/foaf/0.1/"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xmlns:owl="http://www.w3.org/2002/07/owl#"
+        xmlns:dc="http://purl.org/dc/terms/"
+        xmlns:vahicle="https://example.org/schema/vahicle">
+        
+<vahicle:car rdf:about="https://dbpedia.org/page/Lamborghini_Aventador">
+    <vahicle:wikiPageWikiLink>
+    </vahicle:wikiPageWikiLink>
+    <vahicle:number>1</vahicle:number>
+    <vahicle:manufacturer>Lamborghini</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lamborghini_Aventador_LP700-4_Orange.jpg/300px-Lamborghini_Aventador_LP700-4_Orange.jpg</vahicle:thumbnail>
+    <foaf:name>Lamborghini Aventador</foaf:name>
+    <vahicle:abstract>
+        The Lamborghini Aventador (Spanish pronunciation: [aβenta'ðoɾ]) is a mid-engine sportscar produced by the Italian automotive manufacturer Lamborghini. In keeping with Lamborghini tradition, the Aventador is named after a Spanish fighting bull that fought in Zaragoza, Aragón in 1993. The Aventador is the successor for the Murciélago and is made by hand in Sant'Agata Bolognese, Italy.
+    </vahicle:abstract>
+    <vahicle:designer>Filippo Perini and Mitja Borkert</vahicle:designer>
+    <vahicle:bodyStyle>Targa top</vahicle:bodyStyle>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2837.961820457619!2d11.1258606!3d44.659131699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477fc395a3ff12a5%3A0xcd8bded915d658e8!2sLamborghini%20Automobile%20Museum!5e0!3m2!1sen!2sid!4v1671367632659!5m2!1sen!2sid"/>
+    <vahicle:assembly>Italy: Sant'Agata Bolognese</vahicle:assembly>
+    <vahicle:class>Sports Car</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.lamborghini.com/en-en/models/aventador/aventador-svj"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Hyundai_Creta">
+    <vahicle:number>2</vahicle:number>
+    <vahicle:manufacturer>Hyundai Motor Company</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2022_Hyundai_Creta_1.6_Plus_%28Chile%29_front_view.jpg/300px-2022_Hyundai_Creta_1.6_Plus_%28Chile%29_front_view.jpg</vahicle:thumbnail>
+    <foaf:name>Hyundai Creta</foaf:name>
+    <vahicle:abstract>
+        The Hyundai Creta, also known as Hyundai ix25 in China, is an automobile produced by Hyundai since 2014 mainly for emerging markets, particularly BRICS. A subcompact crossover SUV, it is positioned below the Tucson in Hyundai's SUV line-up. The first-generation model debuted as a near-production concept car in China in April 2014, while the second generation was first introduced in 2019. The second-generation model was also available in a longer derivative with three-row seating, which is known as the Hyundai Alcazar, Creta Grand or Grand Creta. The vehicle has been manufactured in China, India, Russia, Brazil, and Indonesia. For developed markets like South Korea, the United States, Canada, Europe and Australia, the Creta is not offered in favour of the smaller but more advanced Kona. The model was named after the Crete island in Greece. The name is also intended to suggest connections with "creative". In the Dominican Republic, it is sold as the Hyundai Cantus. The Creta has been the best-selling SUV in Russia since 2017. It is also the highest-selling SUV in India since 2020, and the third best-selling Hyundai model globally since 2019.
+    </vahicle:abstract>
+    <vahicle:designer>-</vahicle:designer>
+    <vahicle:bodyStyle>Compact sport utility vehicle</vahicle:bodyStyle>
+    <vahicle:assembly>Indonesia: Cikarang, West Java</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63451.5140403395!2d107.10774274696584!3d-6.300523738320143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e699b405e8feecf%3A0x5440ad1bd0dafcd8!2sShowroom%20hyundai%20Cikarang!5e0!3m2!1sen!2sid!4v1671367934678!5m2!1sen!2sid"/>
+    <vahicle:class>Subcompact crossover SUV</vahicle:class>
+    <foaf:homepage rdf:resource="https://hyundaimobil.co.id/vehicle/creta"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Bugatti_Veyron">
+    <vahicle:number>3</vahicle:number>
+    <vahicle:manufacturer>Bugatti_Automobiles</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Red_Bugatti_Veyron_on_the_road_%287559997596%29.jpg/300px-Red_Bugatti_Veyron_on_the_road_%287559997596%29.jpg</vahicle:thumbnail>
+    <foaf:name>Bugatti Veyron 16.4</foaf:name>
+    <vahicle:abstract>
+        The Bugatti Veyron EB 16.4 is a mid-engine sports car, designed and developed in Germany by the Volkswagen Group and Bugatti and manufactured in Molsheim, France, by French automobile manufacturer Bugatti. It was named after the racing driver Pierre Veyron. The original version has a top speed of 407 km/h (253 mph). It was named the 2000s Car of the Decade by the BBC television programme Top Gear. The standard Veyron also won Top Gear's Best Car Driven All Year award in 2005. The Super Sport version of the Veyron is one of the fastest street-legal production cars in the world, with a top speed of 431.072 km/h (267.856 mph). The Veyron Grand Sport Vitesse was the fastest roadster in the world, reaching an averaged top speed of 408.84 km/h (254.04 mph) in a test on 6 April 2013. The Veyron's chief designer was and the exterior was designed by Jozef Kabaň of Volkswagen, with much of the engineering work being conducted under the guidance of chief technical officer Wolfgang Schreiber. The Veyron includes a sound system designed and built by Burmester Audiosysteme. Several special variants have been produced. In December 2010, Bugatti began offering prospective buyers the ability to customise exterior and interior colours by using the Veyron 16.4 Configurator application on the marque's official website. The Bugatti Veyron was discontinued in late 2014, but special edition models continued to be produced until 2015.
+    </vahicle:abstract>
+    <vahicle:designer>Jozef_Kabaň</vahicle:designer>
+    <vahicle:bodyStyle>Coupe and Targa_top</vahicle:bodyStyle>
+    <vahicle:assembly>France: Alsace</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5284.401782483311!2d7.495031705523604!3d48.529381687162505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4796b277a0c6565b%3A0x8874402cdf25205e!2sBugatti%20Stephen!5e0!3m2!1sen!2sid!4v1671368052842!5m2!1sen!2sid"/>
+    <vahicle:class>Sports car</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.bugatti.com/models/veyron-models/veyron-164/"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Daihatsu_Terios">
+    <vahicle:number>4</vahicle:number>
+    <vahicle:manufacturer>Daihatsu</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2018_Daihatsu_Terios_1.5_R_Deluxe_wagon_%28F800RG%3B_01-12-2019%29%2C_South_Tangerang.jpg/300px-2018_Daihatsu_Terios_1.5_R_Deluxe_wagon_%28F800RG%3B_01-12-2019%29%2C_South_Tangerang.jpg</vahicle:thumbnail>
+    <foaf:name>Daihatsu Terios</foaf:name>
+    <vahicle:abstract>
+        The Bugatti Veyron EB 16.4 is a mid-engine sports car, designed and developed in Germany by the Volkswagen Group and Bugatti and manufactured in Molsheim, France, by French automobile manufacturer Bugatti. It was named after the racing driver Pierre Veyron. The original version has a top speed of 407 km/h (253 mph). It was named the 2000s Car of the Decade by the BBC television programme Top Gear. The standard Veyron also won Top Gear's Best Car Driven All Year award in 2005. The Super Sport version of the Veyron is one of the fastest street-legal production cars in the world, with a top speed of 431.072 km/h (267.856 mph). The Veyron Grand Sport Vitesse was the fastest roadster in the world, reaching an averaged top speed of 408.84 km/h (254.04 mph) in a test on 6 April 2013. The Veyron's chief designer was and the exterior was designed by Jozef Kabaň of Volkswagen, with much of the engineering work being conducted under the guidance of chief technical officer Wolfgang Schreiber. The Veyron includes a sound system designed and built by Burmester Audiosysteme. Several special variants have been produced. In December 2010, Bugatti began offering prospective buyers the ability to customise exterior and interior colours by using the Veyron 16.4 Configurator application on the marque's official website. The Bugatti Veyron was discontinued in late 2014, but special edition models continued to be produced until 2015.
+    </vahicle:abstract>
+    <vahicle:designer>Akbar Juniarto,
+        Hirofumi Wada, Yoshihisa Okuno and Chung Inyeok,
+        Jiro Matsueda and Toshiaki Okamoto,
+        Keiichi Enokido,
+        Mark Widjaja,
+        Masahisa Nagano</vahicle:designer>
+    <vahicle:bodyStyle>-</vahicle:bodyStyle>
+    <vahicle:assembly>China: Xiqing, Tianjin</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.7334527404983!2d131.21909421534684!3d33.58626928073524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3543f9dfc4c00001%3A0x257b21a0e0cd1d6a!2sDaihatsu%20Nakatsu!5e0!3m2!1sen!2sid!4v1671392184276!5m2!1sen!2sid"/>
+    <vahicle:class>Mini_SUV</vahicle:class>
+    <foaf:homepage rdf:resource="https://daihatsu.co.id/product/all-new-terios/"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Suzuki_XL-7">
+    <vahicle:number>5</vahicle:number>
+    <vahicle:manufacturer>Suzuki</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2007-2009_Suzuki_XL7_--_03-30-2011_2.jpg/300px-2007-2009_Suzuki_XL7_--_03-30-2011_2.jpg</vahicle:thumbnail>
+    <foaf:name>Suzuki XL-7</foaf:name>
+    <vahicle:abstract>
+        The Suzuki XL-7 (styled as XL7 for the second generation) is a mid-size SUV sold by Suzuki from 1998 to 2009, over two generations. Slotted above the Grand Vitara in Suzuki's lineup, the XL-7 offered three-row seating. XL-7 stands for "Xtra Large 7 seater".
+    </vahicle:abstract>
+    <vahicle:designer>-</vahicle:designer>
+    <vahicle:bodyStyle>Sport_utility_vehicle</vahicle:bodyStyle>
+    <vahicle:assembly>Japan: Iwata, Shizuoka</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13113.985540367894!2d137.86720629072448!3d34.74308668830957!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601ae4666c50eea5%3A0xb5dbfbd8dddaacc7!2sSuzuki%20Motor%20Corporation%20Iwata%20Plant!5e0!3m2!1sen!2sid!4v1671368256112!5m2!1sen!2sid"/>
+    <vahicle:class>SUV</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.globalsuzuki.com/automobile/lineup/xl7/index.html"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Mitsubishi_Pajero_Sport">
+    <vahicle:number>6</vahicle:number>
+    <vahicle:manufacturer>Mitsubishi_Motors</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mitsubishi_Pajero_Sport_%283rd_generation%29_1X7A0409.jpg/300px-Mitsubishi_Pajero_Sport_%283rd_generation%29_1X7A0409.jpg</vahicle:thumbnail>
+    <foaf:name>Mitsubishi Pajero Sport</foaf:name>
+    <vahicle:abstract>
+        The Mitsubishi Pajero Sport is a mid-size SUV produced by the Japanese manufacturer Mitsubishi Motors using the Pajero nameplate since 1996 that has spanned over three generations and based on the Triton pickup truck. Mitsubishi has formerly used the Mitsubishi Challenger (Japanese: 三菱・チャレンジャー, Hepburn: Mitsubishi Charenjā) name in Japan and some international markets, but since the third generation, the Pajero Sport/Montero Sport/Shogun Sport was the name used instead.
+    </vahicle:abstract>
+    <vahicle:designer>Atsunori Mitsuda, Naoki Akita, Osamu Tsuchiya, Toshihiro Imaeda and Yutaka Iwata</vahicle:designer>
+    <vahicle:bodyStyle>-</vahicle:bodyStyle>
+    <vahicle:assembly>China: Changsha, Hunan</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d832734.4832753406!2d136.4034023765992!3d35.383703067661386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60039ab7908822f9%3A0xa8965501ba5d93ed!2sMitsubishi!5e0!3m2!1sen!2sid!4v1671368437828!5m2!1sen!2sid"/>
+    <vahicle:class>Mid-size_SUV</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.mitsubishi-motors.co.id/our-cars/new-pajero-sport"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Honda_HR-V">
+    <vahicle:number>7</vahicle:number>
+    <vahicle:manufacturer>Honda</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Honda_HR-V_Hybrid_1X7A0427.jpg/300px-Honda_HR-V_Hybrid_1X7A0427.jpg</vahicle:thumbnail>
+    <foaf:name>HR-V</foaf:name>
+    <vahicle:abstract>
+        The Honda HR-V is a subcompact crossover SUV (B-segment) manufactured and marketed by Honda over three generations. The first generation HR-V was based on the Honda Logo. It was marketed from 1999 to 2006 in Europe, Japan and select Asia-Pacific markets – and featured three doors (1999–2003) or five doors (1999–2006). The two configurations were internally designated GH2 and GH4 respectively. After a hiatus between 2006 and 2013, Honda reintroduced the nameplate for the second generation HR-V, based on the third-generation Honda Fit. Production began in late 2013 for the Japanese domestic market as the Honda Vezel (Japanese: ホンダ・ヴェゼル, Hepburn: Honda Vezeru), while production started in 2015 for North America, Australia, Brazil and select Asian markets as the HR-V. Apart from Japan, the model is also sold as the Vezel in China. For the third-generation model, the nameplate is split between two different vehicles, one for the global market (also as the Vezel in Japan), and a larger model destined for the North American market. According to Honda, the "HR-V" stands for "Hi-rider Revolutionary Vehicle", while the 'Vezel' name is coined from 'bezel', the oblique faces of a cut gem, with the 'V' for 'vehicle.'
+    </vahicle:abstract>
+    <vahicle:designer>Masaki Kobayashi, Daisuke Akojima, Daisuke Toriyama</vahicle:designer>
+    <vahicle:bodyStyle>-</vahicle:bodyStyle>
+    <vahicle:assembly>Brazil: Sumaré</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.3209484874897!2d-47.203079685112996!3d-22.82761238505214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c8be8a8aa67ffb%3A0x1a1e2bf5dec8e318!2sHonda%20Autom%C3%B3veis%20do%20Brasil!5e0!3m2!1sen!2sid!4v1671367076971!5m2!1sen!2sid"/>
+    <vahicle:class>Compact crossover SUV, Subcompact crossover SUV</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.honda-indonesia.com/model/hr-v"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Audi_Q5">
+    <vahicle:number>8</vahicle:number>
+    <vahicle:manufacturer>Audi</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/2017_Audi_Q5_%28FY%29_TDI_Sport_quattro_ultra_wagon_%282018-09-17%29_01.jpg/300px-2017_Audi_Q5_%28FY%29_TDI_Sport_quattro_ultra_wagon_%282018-09-17%29_01.jpg</vahicle:thumbnail>
+    <foaf:name>Audi Q5</foaf:name>
+    <vahicle:abstract>
+        The Audi Q5 is a series of compact luxury crossover SUVs produced by the German luxury car manufacturer Audi from 2008. The original first-generation (Typ 8R) model was the third member of the B8 family to be released after the Audi A5 and fourth-generation A4, all being based on the Audi MLB platform. The second generation Q5 (Typ 80A) debuted in 2016 and shares the Audi MLB Evo platform with the corresponding B9 versions of the A4 and A5.
+    </vahicle:abstract>
+    <vahicle:designer>Christian Winkelmann</vahicle:designer>
+    <vahicle:bodyStyle>-</vahicle:bodyStyle>
+    <vahicle:assembly>German: Ingolstadt</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10515.542764583794!2d11.410036088987841!3d48.78407250544847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479efe3e21347dbf%3A0x63221e521609fa91!2sAudi%20Forum%20Ingolstadt!5e0!3m2!1sen!2sid!4v1671366513044!5m2!1sen!2sid"/>
+    <vahicle:class>Crossover_SUV</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.audi.co.id/sea/web/id/models/q5/the-new-q5.html"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Hyundai_Santa_Fe">
+    <vahicle:number>9</vahicle:number>
+    <vahicle:manufacturer>Hyundai_Motor_Company</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hyundai_Santa_Fe_%28TM%29_PHEV_FL_IMG_6648.jpg/300px-Hyundai_Santa_Fe_%28TM%29_PHEV_FL_IMG_6648.jpg</vahicle:thumbnail>
+    <foaf:name>Hyundai Santa Fe</foaf:name>
+    <vahicle:abstract>
+        The Hyundai Santa Fe (Korean: 현대 싼타페) is a sport utility vehicle (SUV) produced by the South Korean manufacturer Hyundai since 2000. It is named after the city of Santa Fe, New Mexico, and was introduced for the 2001 model year as Hyundai's first SUV. The Santa Fe was a milestone in the company's restructuring program of the late 1990s because the SUV was a hit with American buyers. Between 2006 and 2012, the Santa Fe was positioned between the smaller Tucson compact crossover and the larger Veracruz. The third-generation Santa Fe introduced in 2012 was available in two versions, which are regular (short) and extended long-wheelbase version. The short model was sold as the Santa Fe Sport in North America (three-row seating was not available) and simply Santa Fe in global markets (three-row seating was standard or optional), while the extended long-wheelbase model is called the Santa Fe in the USA, Santa Fe XL in Canada and called the Hyundai Maxcruz in South Korea. The fourth-generation Santa Fe has been slotted between the Tucson and the Palisade, with the latter being the replacement of the long-wheelbase Santa Fe.
+    </vahicle:abstract>
+    <vahicle:designer>Hong Seok Choi and K.S. Kim</vahicle:designer>
+    <vahicle:bodyStyle>-</vahicle:bodyStyle>
+    <vahicle:assembly>India: Chennai </vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d248793.8540105249!2d80.06084822310302!3d13.009927370559394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526705fce77c5d%3A0x805108906bc55e9f!2sMahindra%20Automotive%20Showroom%20Chennai!5e0!3m2!1sen!2sid!4v1671368490622!5m2!1sen!2sid"/>
+    <vahicle:class>Compact_crossover_SUV</vahicle:class>
+    <foaf:homepage rdf:resource="https://hyundaimobil.co.id/vehicle/santafe"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/BMW_X1">
+    <vahicle:number>10</vahicle:number>
+    <vahicle:manufacturer>BMW</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/2018_BMW_X1_xDrive18D_Sport_2.0.jpg/300px-2018_BMW_X1_xDrive18D_Sport_2.0.jpg</vahicle:thumbnail>
+    <foaf:name>BMW X1</foaf:name>
+    <vahicle:abstract>
+        The BMW X1 is a line of subcompact luxury crossovers produced by BMW. Debuted in 2009, the first-generation X1 has been based on the E90 3 Series and offers rear-wheel drive layout as standard. At its introduction, it was positioned as the smallest SUV in BMW line-up below the X3, aiming a wider range of customers due to its smaller size, increased efficiency, and a lower price tag due to the all-wheel drive layout (xDrive) being optional. The second-generation X1 marked the switch to the front-wheel drive-based layout by using the UKL2 platform shared with the BMW 2 Series Active Tourer and the Mini Countryman. Despite its name, it is only the second smallest SUV produced by BMW since the introduction of the X2.
+    </vahicle:abstract>
+    <vahicle:designer> - </vahicle:designer>
+    <vahicle:bodyStyle>Sport_utility_vehicle</vahicle:bodyStyle>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42198997.97411417!2d-61.72140129999999!3d49.79316479999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a28e54afd90629%3A0xdcdc177ace27141b!2sBavarian%20Motor%20Cars%20GmbH%20-%20BMW%20Military%20Sales%20%7C%20Car%20Dealer%20-%20W%C3%BCrzburg!5e0!3m2!1sen!2sid!4v1671389636381!5m2!1sen!2sid"/>
+    <vahicle:assembly>Jerman: Bavaria</vahicle:assembly>
+    <vahicle:class>Subcompact_luxury_crossover_SUV</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.bmw.com/en/bmw-models/x1.html"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Toyota_Fortuner">
+    <vahicle:number>11</vahicle:number>
+    <vahicle:manufacturer>Toyota</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2015_Toyota_Fortuner_%28New_Zealand%29.jpg/300px-2015_Toyota_Fortuner_%28New_Zealand%29.jpg</vahicle:thumbnail>
+    <foaf:name>Fortuner</foaf:name>
+    <vahicle:abstract>
+        The Toyota Fortuner, also known as the Toyota SW4, is a mid-size SUV manufactured by the Japanese automaker Toyota since 2004. Built on the Hilux pickup truck platform, it features two/three rows of seats and is available in either rear-wheel drive or four-wheel drive configuration. It is a part of Toyota's IMV project for emerging markets, which also includes the Hilux and the Innova. The name Fortuner is derived from the English word fortune.
+    </vahicle:abstract>
+    <vahicle:designer>Akbar Juniarto, Muhammad Arief, Prana Jiwandhana and Supriyatno</vahicle:designer>
+    <vahicle:bodyStyle>Sport_utility_vehicle</vahicle:bodyStyle>
+    <vahicle:assembly>Malaysia: Shah Alam</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15936.465060914257!2d101.51480868278816!3d3.0635749644791295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc529d6a8951c5%3A0xcc95a695e3318e14!2sToyota%20Shah%20Alam!5e0!3m2!1sen!2sid!4v1671368559534!5m2!1sen!2sid"/>
+    <vahicle:class>Mid-size_SUV</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.toyota.astra.co.id/product/all-new-fortuner"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Mercedes-Benz_S-Class">
+    <vahicle:number>12</vahicle:number>
+    <vahicle:manufacturer>Toyota</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mercedes-Benz_W223_IMG_3970.jpg/300px-Mercedes-Benz_W223_IMG_3970.jpg</vahicle:thumbnail>
+    <foaf:name>Mercedes-Benz S-Class W116</foaf:name>
+    <vahicle:abstract>
+        The Mercedes-Benz S-Class, formerly known as Sonderklasse (German for "special class", abbreviated as "S-Klasse"), is a series of full-sized luxury sedans, limousines and armored sedans produced by the German automaker Mercedes-Benz, a division of the German company Mercedes-Benz AG. The S-Class is the designation for top-of-the-line Mercedes-Benz models and was officially introduced in 1972 with the W116, and has remained in use ever since. The S-Class is the flagship vehicle for Mercedes-Benz. The S-Class has debuted many of the company's latest innovations, including drivetrain technologies, interior features, and safety systems (such as the first seatbelt pretensioners). The S-Class has ranked as the world's best-selling luxury sedan. In automotive terms, Sonderklasse refers to "a specially outfitted car." Although used colloquially for decades, following its official application in 1972, six generations of officially named S-Klasse sedans have been produced. In 1981, the two-door, four-seat S-Class, designated as SEC, was introduced, sharing the petrol V8 engines with its four-door version, W126. After the introduction of a new nomenclature scheme, SEC was simply renamed as S-Class Coupé. For the 1996 model year, the coupé was separated from the S-Class line and named as new CL-Class (in line with other two-door models: CLK, SL, and SLK); however, the CL-Class was reintegrated into the S-Class model line (same with CLK becoming E-Class Coupé and Cabriolet). The first-ever S-Class convertible since 1972, internally named A217, was introduced and became a one-generation model only. After the end of W222 production in 2020, the successors to the C217 coupé and A217 convertible are not planned, citing the low demand for those models and stronger demand for SUV models.
+    </vahicle:abstract>
+    <vahicle:designer>Gorden_Wagener</vahicle:designer>
+    <vahicle:bodyStyle>Sedan_(automobile)</vahicle:bodyStyle>
+    <vahicle:assembly>Seoul: Dongil-ro, Seongdong-gu</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25308.268246049854!2d127.02880347910157!3d37.542491900000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca4eafa30ad19%3A0x6c99669d31ec8277!2sBMW%20Deutsch%20Motors%20Seongsu%20showroom!5e0!3m2!1sen!2sid!4v1671369108539!5m2!1sen!2sid"/>
+    <vahicle:class>F-segment</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.mbusa.com/en/vehicles/class/s-class/sedan"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/BMW_i8">
+    <vahicle:number>13</vahicle:number>
+    <vahicle:manufacturer>BMW</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2016_BMW_i8.jpg/300px-2016_BMW_i8.jpg</vahicle:thumbnail>
+    <foaf:name>BMW i8</foaf:name>
+    <vahicle:abstract>
+        The BMW i8 is a plug-in hybrid sports car developed by BMW. The i8 was part of BMW's electrified fleet and was marketed under the BMW i sub-brand. The production version of the BMW i8 was unveiled at the 2013 Frankfurt Motor Show and was released in Germany in June 2014. Deliveries to retail customers in the U.S. began in August 2014. A roadster variant was launched in May 2018. Production ended in June 2020. The 2015 BMW i8 accelerated from 0 to 100 km/h (62 mph) in 4.4 seconds and had an electronically limited top speed of 250 km/h (155 mph). The 2015 model year i8 had a 7.1-kWh lithium-ion battery pack that delivered an all-electric range of 37 km (23 mi) under the New European Driving Cycle. Under the U.S. EPA cycle, the range in EV mode was 24 km (15 mi). The battery capacity of both the BMW i8 Roadster and the i8 Coupe was increased to 11.6 kWh in 2018, allowing the NEDC electric range to rise to 55 km (34 mi) for the coupé and 53 km (33 mi) for the roadster. The BMW i8 coupé had a fuel efficiency of 2.1 L/100 km (134.5 mpg‑imp; 112.0 mpg‑US) under the NEDC test with carbon emissions of 49 g/km. The EPA rated the i8 combined fuel economy at 76 MPGe (3.1 L gasoline-equivalent/100 km; 91 mpg-imp gasoline-equivalent) and 29 miles per gallon (6.7L/100 km) when running in pure gasoline mode. By March 2020, global sales of all variants had reached more than 20,000 units, making the BMW i8 the world's top-selling plug-in electric sports car, and exceeding sales of all competitors in its segment combined.
+    </vahicle:abstract>
+    <vahicle:designer>Richard_Kim</vahicle:designer>
+    <vahicle:bodyStyle>Coupé</vahicle:bodyStyle>
+    <vahicle:assembly>Germany: Saxony, Leipzig</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d79717.30435052856!2d12.358148048070609!3d51.36324932357538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a6f9b1426439e7%3A0x298940857d19886a!2sBMW%20Leipzig%20branch!5e0!3m2!1sen!2sid!4v1671390156296!5m2!1sen!2sid"/>
+    <vahicle:class>Sports_car</vahicle:class>
+    <foaf:homepage rdf:resource="https://web.archive.org/web/20130915065351/http:/www.bmw.com/com/en/newvehicles/i/i8/2013/showroom/index.html"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Porsche_911">
+    <vahicle:number>14</vahicle:number>
+    <vahicle:manufacturer>Porsche</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg/300px-Porsche_911_No_1000000%2C_70_Years_Porsche_Sports_Car%2C_Berlin_%281X7A3888%29.jpg</vahicle:thumbnail>
+    <foaf:name>Porsche 911</foaf:name>
+    <vahicle:abstract>
+        The Porsche 911 (pronounced Nine Eleven or in German: Neunelfer) is a two-door 2+2 high performance rear-engined sports car introduced in September 1964 by Porsche AG of Stuttgart, Germany. It has a rear-mounted flat-six engine and originally a torsion bar suspension. The car has been continuously enhanced through the years but the basic concept has remained unchanged. The engines were air-cooled until the introduction of the 996 series in 1998. The 911 has been raced extensively by private and factory teams, in a variety of classes. It is among the most successful competition cars. In the mid-1970s, the naturally aspirated 911 Carrera RSR won world championship races including Targa Florio and the 24 Hours of Daytona. The 911-derived 935 turbo also won the 24 Hours of Le Mans in 1979. Porsche won the World Championship for Makes in 1976, 1977, 1978, and 1979 with 911-derived models. In a 1999 poll to determine the Car of the Century, the 911 was fifth. It is one of two in the top five that had remained continuously in production (the original Beetle remained in production until 2003). The one millionth example was manufactured in May 2017 and is in the company's permanent collection. 
+    </vahicle:abstract>
+    <vahicle:designer>Ferdinand_Alexander_Porsche</vahicle:designer>
+    <vahicle:bodyStyle>Coupé</vahicle:bodyStyle>
+    <vahicle:assembly>Germany: Stuttgart, Baden-Württemberg</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5256886.641326458!2d6.2511280070209345!3d49.95811918430446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a658c5657cef43%3A0x16ed25e52ab780c1!2sPorsche%20Centre%20Leipzig!5e0!3m2!1sen!2sid!4v1671390524521!5m2!1sen!2sid"/>
+    <vahicle:class>Sports_car</vahicle:class>
+    <foaf:homepage rdf:resource="https://web.archive.org/web/20090616064807/http:/www.porsche.com/microsite/911/default.aspx"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Suzuki_Jimny">
+    <vahicle:number>15</vahicle:number>
+    <vahicle:manufacturer>Suzuki</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2019_Suzuki_Jimny_SZ5_4X4_Automatic_1.5.jpg/300px-2019_Suzuki_Jimny_SZ5_4X4_Automatic_1.5.jpg</vahicle:thumbnail>
+    <foaf:name>Suzuki Jimny</foaf:name>
+    <vahicle:abstract>
+        The Suzuki Jimny (Japanese: スズキ・ジムニー, Suzuki Jimunī) is a series of four-wheel drive off-road mini SUVs, manufactured and marketed by Japanese automaker Suzuki since 1970. Originally belonging to the kei class, Japan's light automobile tax/legal class, the company continues to market a kei-compliant version for the Japanese and global markets as the Jimny, as well as versions that exceed kei-class limitations. Suzuki has marketed 2.85 million Jimnys in 194 countries through September 2018.
+    </vahicle:abstract>
+    <vahicle:designer>Hiroyuki Yonezawa</vahicle:designer>
+    <vahicle:bodyStyle>Station_wagon</vahicle:bodyStyle>
+    <vahicle:assembly>Japan: Kosai, Shizuoka</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d402812.11700669926!2d-3.858322404382562!3d37.93113913937357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6ef385b7e99237%3A0xf1c759e457e21cf1!2sConcesionario%20Oficial%20Suzuki%20-%20Motri%20Motor!5e0!3m2!1sen!2sid!4v1671391127558!5m2!1sen!2sid"/>
+    <vahicle:class>Off-road mini SUV</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.suzuki.co.nz/SUVs/Overview/Jimny"/>
+</vahicle:car>
+
+<vahicle:car rdf:about="https://dbpedia.org/page/Lexus_ES">
+    <vahicle:number>16</vahicle:number>
+    <vahicle:manufacturer>Lexus</vahicle:manufacturer>
+    <vahicle:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lexus_ES_350_%28GSZ10%29_IMG_4332.jpg/300px-Lexus_ES_350_%28GSZ10%29_IMG_4332.jpg</vahicle:thumbnail>
+    <foaf:name>Lexus ES</foaf:name>
+    <vahicle:abstract>
+        The Lexus ES (Japanese: レクサス・ES, Hepburn: Rekusasu ES) is a series of mid-size executive cars marketed since 1989 by Lexus, the luxury division of Toyota, across multiple generations, each offering V6 engines and a front-engine, front-wheel-drive layout. The first five generations of the ES used the Toyota Camry platform, while the sixth and seventh generations are more closely related to the Avalon. Manual transmissions were offered until 1993, a lower-displacement inline-four engine became an option in Asian markets in 2010, and a gasoline-electric hybrid version was introduced in 2012. The ES was Lexus' only front-wheel drive vehicle until 1998, when the related RX was introduced, and the sedan occupied the entry-level luxury car segment of the Lexus lineup in North America and other regions until the debut of the IS in 1999. The ES name stands for "Executive Sedan". However, some Lexus importers use the backronymic name, "Elegant Sedan". Introduced in 1989, the first generation ES 250 was one of two vehicles in Lexus' debut range, along with the LS 400. The second generation ES 300 debuted in 1991, followed by the third generation ES 300 in 1996, and the fourth generation ES 300/330 in 2001. The first- through fourth generation sedans shared body styling elements with Japan-market Toyota sedans, and a domestic market equivalent, the Toyota Windom (Japanese: トヨタ・ウィンダム, Toyota Windamu), was sold until the launch of the fifth generation ES in 2006. The word "Windom" is a combination of "win" and the suffix "dom" expresses a state of perpetual victory. The fifth generation ES used body styling marketed by Lexus as L-finesse and debuted in early 2006 as a 2007 model. The sixth generation ES debuted in the first half of 2012 as a 2013 model, and features increased cabin dimensions due to a longer wheelbase which is shared with the full-size XX40 series Avalon. Lexus has positioned the ES in the comfort luxury segment, with an emphasis on interior amenities, quietness, and ride quality, in contrast with more firm-riding sport sedans. Buyers seeking more performance-focused models are targeted by the Lexus IS and rival makes, with such models offering a sportier drive with differently tuned suspensions. In Europe, Japan and other markets where it was not available until the seventh generation model, the GS sport sedans occupy the mid-size category in the Lexus lineup until it was cancelled August 2020. In the United States, the ES has been the best-selling Lexus sedan for over fifteen years.
+    </vahicle:abstract>
+    <vahicle:designer>Hiroshi Okamoto, Kengo Matsumoto,
+        Kunihiro Uchida,
+        Masanari Sakae,
+        Pansoo Kwon, Yuji Fujiwara,
+        Yasuo Kajino,
+        Yoshiro Tada</vahicle:designer>
+    <vahicle:bodyStyle>Sedan</vahicle:bodyStyle>
+    <vahicle:assembly>United States: Georgetown, Kentucky</vahicle:assembly>
+    <vahicle:maps rdf:resource="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3132.8475288512477!2d-84.54243438453256!3d38.25984212967398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88423ebdad8bed4f%3A0x732272a4d730a8d4!2sLexus%20assembly!5e0!3m2!1sen!2sid!4v1671391548515!5m2!1sen!2sid"/>
+    <vahicle:class>Mid-size luxury car/Executive car</vahicle:class>
+    <foaf:homepage rdf:resource="https://www.lexus.co.id/en/models/es.html?gclid=CjwKCAiAkfucBhBBEiwAFjbkr4QkSleH3-fECYnYPINLbbsbUcJYEp2BWQh068YeZErHO7rvjeokdhoCZGEQAvD_BwE"/>
+</vahicle:car>
+
+</rdf:RDF>
